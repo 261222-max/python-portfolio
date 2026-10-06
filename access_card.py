@@ -1,0 +1,10 @@
+#walaa,2/10/2026,this prints my security access card
+print("===============================")
+print("Security Access Card")
+print("==============================")
+print("Name:","Walaa","Rola:","Student")
+print("program:","Cybersecurity","University:","ppu")
+print()
+print("Access Level: Student")
+print("Status:Active")
+print("==============================")
